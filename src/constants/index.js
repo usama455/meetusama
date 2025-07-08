@@ -249,6 +249,60 @@ export const PROJECTS = [
   projecttype: "Retail Analytics Dashboard",
   tags: ["react", "node", "retail", "analytics"]
 }
+,
+
+
+// {
+//   id: "prerecorded",
+//   name: "OSL-PreRecorded – Pre-recorded & Multistreaming Video Platform",
+//   description: `OneStream Live is a professional-grade platform enabling users to record, upload, schedule, and live stream pre-recorded videos across multiple destinations like YouTube, Facebook, and LinkedIn — 24/7.
+
+// As Lead Full-Stack Developer & Architect, I was responsible for designing and developing the platform’s real-time infrastructure, playback engine, and scheduling system. Key features I implemented include:
+
+// 🔁 24/7 looping live streams on major platforms
+
+// 📅 Advanced scheduling (up to 60 days) with playlist queuing
+
+// ☁️ Cloud integrations (Google Drive, Dropbox, S3, etc.)
+
+// 🎥 Multi-source upload: local, webcam, screen capture
+
+// 🌐 Embeddable video player with 360° and 180° video support
+
+// 💬 Unified chat across platforms
+
+// 👥 Team collaboration tools with role-based access
+
+// The backend handles transcoding, storage, and automated multistream delivery via a cloud-native architecture. My work helped scale the platform to support millions of hours of video processing and global live delivery.
+
+// `,
+//   shortdescription: `Cloud platform to schedule, loop, and multistream pre-recorded videos to multiple platforms with real-time collaboration.`,
+//   github: "https://github.com/yourusername/retailpulse",
+//   media: [
+//     {
+//       type: "image",
+//       src: "/assets/Projects/oslprerec/PlaylistOSLPREREC.webp",
+//     },
+//     {
+//       type: "image",
+//       src: "/assets/Projects/oslprerec/prerec-destinations.png",
+//     },
+
+//     {
+//       type: "video",
+//       src: "/assets/Projects/oslprerec/pre-recorded-osl.mp4",
+//     },
+//     {
+//       type: "image",
+//       src: "/assets/Projects/oslprerec/prerec-playlist.png",
+//     }
+
+//   ],
+//   banner: "/assets/Projects/oslprerec/PlaylistOSLPREREC.webp",
+//   techstack: "React.js, Node.js, MongoDB, Redis, AWS (S3, CloudFront, Lambda), FFmpeg, Docker, WebSockets, OAuth, Firebase, Kubernetes",
+//   projecttype: "Retail Analytics Dashboard",
+//   tags: ["react", "node", "retail", "analytics"]
+// }
 
 
 ];
